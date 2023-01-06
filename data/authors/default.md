@@ -1,16 +1,11 @@
 ---
-name: Tails Azimuth
+name: Kshitij
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Intellectual Badass and Extraordinaire
+email: kshitijtapre@gmail.com
+github: https://github.com/ilulale/
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+As a full stack developer, I have a strong foundation in computer engineering, specifically with a focus on JavaScript frameworks for both frontend and backend development. My bachelor's degree from Bombay University has given me a solid understanding of the field, and I have applied this knowledge to a number of projects involving Docker and Kubernetes.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In addition to my technical skills, I am also highly interested in cybersecurity. I am currently exploring options to pursue a master's degree in the field, which would allow me to deepen my understanding of the latest security threats and best practices. My passion for cybersecurity, combined with my technical expertise, makes me well-equipped to tackle a variety of challenges in the field of software development and beyond. I am always looking for new opportunities to learn and grow, and I am excited to bring my skills and expertise to new projects and challenges.
